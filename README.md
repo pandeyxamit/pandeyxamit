@@ -32,3 +32,9 @@
 <br>
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=pandeyxamit&show_icons=true&theme=algolia&count_private=true)
+
+<br>
+<br>
+
+## 🌈: Have a nice day!
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=pandeyxamit alt=pandeyxamit/></p>
