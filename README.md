@@ -3,7 +3,7 @@
 <!--
       ^(◉_◉)^
 -->
-
+- **👨‍💻 I can code in :** | Python | C/C++ | JAVA | 
 - **🔭 I’m currently working on:** Creating my own repo of Algorithms in python.
 - **🌱 I’m currently learning:** ML prerequisites.
 - **💬 Ask me about:** any random topic. I'll try my best to come up with an appropriate answer.
@@ -11,5 +11,24 @@
 - **😄 Pronouns:** he/him
 - **⏳ In my free time:** I watch Anime. Currently I'm watching Naruto Shippuden. And trust me I am going to be a Hokage someday.
 
+### You can Connect with me here:
+
+<a href="https://www.linkedin.com/in/pandeyxamit/">
+    <img align="left" alt="Amit Ranjan | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/pandeyxamit?lang=en">
+    <img align="left" alt="Amit Ranjan | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a> 
+
+   <a href="https://instagram.com/pandeyxamit">
+    <img align="left" alt="Amit Ranjan | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+
+   <a href="https://medium.com/@pandeyxamit" target="blank">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pandeyxamit" height="25" width="25" />
+</a>  
+
+<br>
+<br>
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=pandeyxamit&show_icons=true&theme=algolia&count_private=true)
