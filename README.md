@@ -1,8 +1,13 @@
+
 ### Hi there 👋, Welcome!
 
-<!--
-      ^(◉_◉)^
+<!-- Whoa! Checkout this out --
+      ^(◉ _ ◉)^
+     It's an Owl yo!! 
 -->
+
+### Here are a few things about me:
+
 - **👨‍💻 I can code in :** | Python | C/C++ | JAVA | 
 - **🔭 I’m currently working on:** Creating my own repo of Algorithms in python.
 - **🌱 I’m currently learning:** ML prerequisites.
