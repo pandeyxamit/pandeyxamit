@@ -14,7 +14,7 @@
 - **💬 Ask me about:** any random topic. I'll try my best to come up with an appropriate answer.
 - **📫 How to reach me:** `amitranjan297@gmail.com`
 - **😄 Pronouns:** he/him
-- **⏳ In my free time:** I watch Anime. Currently I'm watching Naruto Shippuden. And trust me I am going to be a Hokage someday.
+- **⏳ In my free time:** I watch Anime. Currently I'm watching Boruto.
 
 ### You can Connect with me here:
 
@@ -44,4 +44,4 @@
 <br>
 
 ## 🌈: Have a nice day!
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=pandeyxamit alt=pandeyxamit/></p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=pandeyxamit alt=pandeyxamit/></p>
