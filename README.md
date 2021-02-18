@@ -29,9 +29,7 @@
     <img align="left" alt="Amit Ranjan | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 
-   <a href="https://medium.com/@pandeyxamit" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pandeyxamit" height="25" width="25" />
-</a>  
+
 
 <br>
 <br>
