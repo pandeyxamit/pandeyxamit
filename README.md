@@ -29,8 +29,6 @@
     <img align="left" alt="Amit Ranjan | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 
-
-
 <br>
 <br>
 <br>
