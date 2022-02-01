@@ -14,7 +14,7 @@
 - **💬 Ask me about:** any random topic. I'll try my best to come up with an appropriate answer.
 - **📫 How to reach me:** `amitranjan297@gmail.com`
 - **😄 Pronouns:** he/him
-- **⏳ In my free time:** I watch Anime.
+- **⏳ In my free time:** I watch Anime & read Manga.
 
 ### You can Connect with me here:
 
