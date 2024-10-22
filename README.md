@@ -10,7 +10,7 @@
 
 - **👨‍💻 I can code in :** | Python | JAVA | 
 - **🔭 I’m currently working on:** improving my tech stack and dive a bit deeper.
-- **🌱 I’m currently learning:** system Design.
+- **🌱 I’m currently learning:** system design.
 - **💬 Ask me about:** any random topic. I'll try my best to come up with an appropriate answer.
 - **📫 How to reach me:** `amitranjan297@gmail.com`
 - **😄 Pronouns:** he/him
